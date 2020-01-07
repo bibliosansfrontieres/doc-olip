@@ -2,9 +2,12 @@
 title: 'Search engine'
 ---
 
-The search engine is available clicking on  : ![image-20191112173846655](../assets/image-20191112173604539.png)
+The search engine is available clicking on  : 
+
+![image-20191112173846655](../assets/image-20191112173604539.png)
 
 Then it opens a popup where you can enter your keyword : 
+
 ![image-20191112173846655](../assets/image-20191112173846655.png)
 
 The search engine will look into each app of OLIP that has enabled OLIP to search inside its content. This is already the case for the meadiacenter and Kiwix. 
