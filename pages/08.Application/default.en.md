@@ -14,7 +14,7 @@ First part of the page is about downloaded application. This is the list of the 
 
 Please use the search field or the pagination in case of many applications available.
 
-<img src="../assets/image-20191112174808526.png" alt="image-20191112174808526" style="zoom:67%;" /> 
+![image-20191112174808526.png](../assets/image-20191112174808526.png?resize=65%) 
 
 
 
@@ -22,7 +22,7 @@ Please use the search field or the pagination in case of many applications avail
 
 Here you have access to many options to manage your applications : 
 
-<img src="../assets/image-20191112175540393.png" alt="image-20191112175540393" style="zoom:80%;" />
+![image-20191112175540393.png](../assets/image-20191112175540393.png?resize=80%)
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |

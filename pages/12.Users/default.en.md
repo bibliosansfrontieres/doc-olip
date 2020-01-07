@@ -4,7 +4,7 @@ title: Users
 
 On this admin page, you can search, edit or add user on OLIP. 
 
-<img src="../assets/image-20191113105316614.png" alt="image-20191113105316614" style="zoom:80%;" />
+![image-20191113105316614.png](../assets/image-20191113105316614.png?resize=80%)
 
 A search engine is available to look for a specific user. 
 
@@ -24,9 +24,9 @@ Here are the different accesses an admin or a user has :
 
 ## Create a user
 
-Click on <img src="../assets/image-20191113112640383.png" alt="image-20191113112640383" style="zoom:60%;" /> at the top right corner of the user page to open this page : 
+Click on ![image-20191113112640383.png](../assets/image-20191113112640383.png?resize=60%) at the top right corner of the user page to open this page : 
 
-<img src="../assets/image-20191113112720457.png" alt="image-20191113112720457" style="zoom:60%;" />
+![image-20191113112720457.png](../assets/image-20191113112720457.png?resize=60%)
 
 
 
@@ -45,7 +45,7 @@ where you can enter :
 
 When you click on the edit button, you have access to this page : 
 
-<img src="../assets/image-20191113110939197.png" alt="image-20191113110939197" style="zoom:60%;" />
+![image-20191113110939197.png](../assets/image-20191113110939197.png?resize=60%)
 
 where you can :  
 

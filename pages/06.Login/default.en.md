@@ -4,7 +4,7 @@ title: 'Login page & application login page'
 
 ## OLIP Login page
 
-<img src="../assets/image-20191031171858938.png" alt="image-20191031171858938" style="zoom:50%;" />
+![image-20191031171858938.png](../assets/image-20191031171858938.png?resize=50%)
 
 The internal authentification makes you possible the authentification using the username and password provided by the administrator/trainer. The username contains only letters, digits, dot and dash character.
 
@@ -14,7 +14,7 @@ The internal authentification makes you possible the authentification using the 
 
 Some applications need to be logged in to access their content and functionnalities. This is the case of Kolibri for example : 
 
-<img src="../assets/image-20191031172903510.png" alt="image-20191031172903510" style="zoom:50%;" />
+![image-20191031172903510.png](../assets/image-20191031172903510.png?resize=50%)
 
 Two ways are possible to be logged in : 
 
